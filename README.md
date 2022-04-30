@@ -13,15 +13,15 @@ The system pu is based on $S^\mathrm{base} = 100$ MVA, and the discount factor i
 
 ## Sheets names and descriptions
 
-* DG parameters:
-	This sheet includes all the parameters relating to DGs on each column. The cost functions defined of DGs are assumed to be linear, and the upgrade costs of DGs are proportional to their average construction cost from [1]. The cost coefficients for different DG nodes are calculated following the procedure presented in [2].
- 	i. Nodes: Distribution nodes with DGs.
-	ii. up_cost: Cost of upgrading the DG capacity in \$/pu.
-	iii. maint_cost: Maintenance cost of the DG in \$/pu.
-	iv. gen_cost: Hourly generation cost coefficient in \$/pu.h.
-	v. min_p: Minimum active power generation of DG in pu.
-	vi. init_s: Initial total capacity of DGs in pu.
-	vii. budget: Yearly capacity upgrade budget for each DG in \$/pu.
+Markup :* DG parameters:
+		This sheet includes all the parameters relating to DGs on each column. The cost functions defined of DGs are assumed to be linear, and the upgrade costs of DGs are proportional to their average construction cost from [1]. The cost coefficients for different DG nodes are calculated following the procedure presented in [2].
+ 		i. Nodes: Distribution nodes with DGs.
+		ii. up_cost: Cost of upgrading the DG capacity in \$/pu.
+		iii. maint_cost: Maintenance cost of the DG in \$/pu.
+		iv. gen_cost: Hourly generation cost coefficient in \$/pu.h.
+		v. min_p: Minimum active power generation of DG in pu.
+		vi. init_s: Initial total capacity of DGs in pu.
+		vii. budget: Yearly capacity upgrade budget for each DG in \$/pu.
 	
 * Load:
 In the distribution test system, nodes 8, 13, and 30 are the generation nodes, and the feeder is connected to the main grid at node 1. The cost functions defined of DGs are assumed to be linear, and the upgrade costs of DGs are proportional to their average construction cost from [1]. The cost coefficients for different DG nodes are calculated following the procedure presented in [2]. The system pu is based on $S^\mathrm{base} = 100$ MVA, and the discount factor is assumed to be $\alpha$ = 90\%. 
