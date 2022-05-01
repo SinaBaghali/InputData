@@ -45,6 +45,9 @@ The system pu is based on 100 MVA, and the discount factor is assumed to be &alp
 * CS_cap:
 	This sheet provides the initial charging capacity for each charging station node.
 
+
+
+## General considerations
  
 According to [5], the average cost of installing a commercialized level 2 charger for a large scale CS is 3,840 \$, with an average capacity of  12.75 kW for each charger. Accordingly, we set the upgrade cost for each CS to be 50.19 \$/kW, and the maintenance cost coefficients are assumed to be 1 $\%$ of the upgrade cost. Using the procedure introduced in [2] we calculated the projected CS upgrade costs in system pu, and the charging cost for EVs is considered to be 0.15 \$/kW based on the levelized cost of charging reported in [6].
 
