@@ -1,6 +1,6 @@
 # Input_data
 
-This directory provides the input data used for the test system of the research project on the multi-stage charging station and distributed generation capacity planning with coupled power and transportation systems.
+This directory provides the input data used for the test system of a research project on the multi-stage charging station and distributed generation capacity planning with coupled power and transportation systems.
 
 IEEE 33-node test system is used as the power distribution test system, and origin-destination (OD) travel demand from the 2020 Central Florida Regional Planning Model (CFRPM) is used as the transportation network input.
 
@@ -15,7 +15,7 @@ The system pu is based on 100 MVA, and the discount factor is assumed to be 90\%
 
 * DG parameters:
 
-	This sheet includes all the parameters relating to DGs on each column. The cost functions defined of DGs are assumed to be linear, and the upgrade costs of DGs are proportional to their average construction cost from [1]. The cost coefficients for different DG nodes are calculated following the procedure presented in [2].
+	This sheet includes all the parameters relating to DGsn. The cost functions defined for distributed generators (DGs) are assumed to be linear, and the upgrade costs of DGs are proportional to their average construction cost from [1]. The cost coefficients for different DG nodes are calculated following the procedure presented in [2]. The description of each column in this sheet is as follows:
 
  	* Nodes: Distribution nodes with DGs.
 	* up_cost: Cost of upgrading the DG capacity in \$/pu.
@@ -34,7 +34,7 @@ The system pu is based on 100 MVA, and the discount factor is assumed to be 90\%
 
 * Nodal load: 
 
-	The load demand in the previous sheet was distributed among all the nodes of the area studied, where each node was allocated a fraction of the load demand based on the assumptions made on the user types, i.e., commercial, industrial, and household users.
+	The load demand on the "Load demand" sheet is distributed among all the load nodes of the test sytem, where each node was allocated a fraction of the load demand based on the assumptions made on the user types, i.e., commercial, industrial, and household users.
 
 	This sheet provides the ratio of the total load demand that has been assigned on each node.
 
