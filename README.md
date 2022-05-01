@@ -73,7 +73,7 @@ All EVs are considered to have battery capacity of 100 kW (0.001 pu) and and the
 
 [2] L. J. Vimmerstedt, C. R. Augustine, P. C. Beiter, W. J. Cole, D. J. Feldman, P. Kurup, E. J. Lantz, R. M. Margolis, T. J. Stehly, C. S. Turchi et al., “2018 annual technology baseline (atb),” National Renewable Energy Lab.(NREL), Golden, CO (United States), Tech. Rep., 2018.
 
-[3] “PJM Market Data,” [https://dataminer2.pjm.com/list, 2021](https://dataminer2.pjm.com/list, 2021).
+[3] “PJM Market Data,” [https://dataminer2.pjm.com/list,2021](https://dataminer2.pjm.com/list).
 
 [4] IEA, “Global EV outlook 2020, entering the decade of electric drive,” IEA: Paris, Tech. Rep., 2020. [Online].
 Available: [https://www.iea.org/reports/global-ev-outlook-2020](https://www.iea.org/reports/global-ev-outlook-2020)
@@ -82,4 +82,4 @@ Available: [https://www.iea.org/reports/global-ev-outlook-2020](https://www.iea.
 
 [6] B. Borlaug, S. Salisbury, M. Gerdes, and M. Muratori, “Levelized cost of charging electric vehicles in the united states,” Joule, vol. 4, no. 7, pp. 1470–1485, Jul. 2020.
 
-[7] United States Department of Transportation, “National Household Travel Survey 2017,” [https://nhts.ornl.gov/, 2019](https://nhts.ornl.gov/, 2019).
+[7] United States Department of Transportation, “National Household Travel Survey 2017,” [https://nhts.ornl.gov/, 2019](https://nhts.ornl.gov/).
